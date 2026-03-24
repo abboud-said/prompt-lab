@@ -1,3 +1,6 @@
+
+https://prompt-lab-32bp.vercel.app/
+
 # 🚀 AI Prompt Lab (Gemini 1.5)
 
 A professional AI prototyping dashboard built with React 19, Vite 8, and Tailwind CSS v4. This lab allows users to experiment with AI "Temperatures" and track their prompt history.
