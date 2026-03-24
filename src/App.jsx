@@ -37,7 +37,7 @@ useEffect(() => {
       {/* Header */}
       <header className="max-w-4xl mx-auto mb-12 text-center">
         <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 mb-4">
-          AI Prompt Lab
+          AI Prompt Lab 🚀
         </h1>
         <p className="text-zinc-400">Master the art of AI communication</p>
       </header>
