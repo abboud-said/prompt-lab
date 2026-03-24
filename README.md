@@ -18,4 +18,4 @@ A professional AI prototyping dashboard built with React 19, Vite 8, and Tailwin
 1. Clone the repo.
 2. Run `npm install`.
 3. Create a `.env` file and add `VITE_GEMINI_API_KEY=YOUR_KEY`.
-4. Run `npm run dev`.
+4. Run `npm run dev`.# prompt-lab
